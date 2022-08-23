@@ -48,3 +48,5 @@ int main(){
     cout<<curr<<"\n";
      return 0;
 }
+
+// ini tes dari github browser
